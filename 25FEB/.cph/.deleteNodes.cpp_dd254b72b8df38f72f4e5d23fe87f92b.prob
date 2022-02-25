@@ -1,0 +1,1 @@
+{"name":"Local: deleteNodes","url":"c:\\Users\\kunj5\\Desktop\\LP_OCr\\L_oct\\25FEB\\deleteNodes.cpp","tests":[{"id":1645799230228,"input":"8\n12 15 10 11 5 6 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kunj5\\Desktop\\LP_OCr\\L_oct\\25FEB\\deleteNodes.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: FindSumAtLevelK","url":"c:\\Users\\kunj5\\Desktop\\LP_OCr\\L_oct\\14MARCH\\FindSumAtLevelK.cpp","tests":[{"id":1647272551011,"input":"1 2\n2 2\n3 0\n4 0\n5 2\n6 0\n7 0\n2","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kunj5\\Desktop\\LP_OCr\\L_oct\\14MARCH\\FindSumAtLevelK.cpp","group":"local","local":true}
